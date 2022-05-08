@@ -5,7 +5,7 @@
 # --------------------------------------------------------------
 # This script is meant to show that it is possible to send
 # keystrokes on your Whid devices using the HTTP protocol.
-# insthead of using the usual Whid Web app.
+# instead of using the usual Whid Web app.
 #
 # I'm planning on making a more advanced whid live controller.
 # You'll be basically able to cast your keyboard on anyone ;)
